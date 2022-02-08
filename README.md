@@ -1,4 +1,5 @@
 ### Hi there
+
 I worked in mechanical engineering and commercial management for about eleven years until I experienced Odoo framework as a user and I became interested in the coding world. It was strange to those around me why after many years of working in different fields, I decided to change my job. But that's exactly the point! I wanted a new different story in my career which I could enjoy it and here I am.
 
 <!--
