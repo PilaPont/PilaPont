@@ -15,17 +15,17 @@ Since 2021, I have teaching Odoo in a company beside of coding. You know? I like
 
 #### - [Project Progress](https://github.com/PilaPont/Project-Progress)
 
-#### - [Project Task Dependencies](https://github.com/PilaPont/Letter)
+#### - [Project Task Dependencies](https://github.com/PilaPont/Project-Task-Dependencies)
 
-#### - [User Signature](https://github.com/PilaPont/Letter)
+#### - [User Signature](https://github.com/PilaPont/User-Signature)
 
-#### - [Sale Core](https://github.com/PilaPont/Letter)
+#### - [Sale Core](https://github.com/PilaPont/Sale-Core)
 
-#### - [Purchase Core](https://github.com/PilaPont/Letter)
+#### - [Purchase Core](https://github.com/PilaPont/Purchase-Core)
 
-#### - [Employment Regulations](https://github.com/PilaPont/Letter)
+#### - [Employment Regulations](https://github.com/PilaPont/Employment-Regulations)
 
-#### - [Web Editor Core](https://github.com/PilaPont/Letter)
+#### - [Web Editor Core](https://github.com/PilaPont/Web-Editor-Core)
 
 
 
